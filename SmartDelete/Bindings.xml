@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="SMARTDELETE_MAIN" header="SMARTDELETE_HEADER">
+		SmartDelete_MainButton()
+	</Binding>
+	<Binding name="SMARTDELETE_IGNORE" header="SMARTDELETE_HEADER">
+		SmartDelete_IgnoreButton()
+	</Binding>
+</Bindings>

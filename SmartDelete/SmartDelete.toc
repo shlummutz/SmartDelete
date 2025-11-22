@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: SmartDelete
+## Description: Tries to delete the lowest value item. If the quality of said item is not grey, it waits for user input to either confirm deletion or add the item to an ignore list. 
+## Author: Gemini + 1 Human brain cell
+## Version: 3.1
+## SavedVariables: SmartDeleteIgnoreDB
+
+SmartDelete.lua
