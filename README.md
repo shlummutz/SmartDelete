@@ -4,3 +4,4 @@ World of Warcraft (3.3.5a) based Addon - Tries to delete the lowest value item. 
 # Credits
 - Gemini
 - 1 human brain cell used by myself
+- Idea based on the DeJunk addon for retail & classic World of Warcraft.
